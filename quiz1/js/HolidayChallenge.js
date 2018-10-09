@@ -10,7 +10,6 @@ charity this year!
 */
 
 
-
 var totalCents = (100000 * 2) + (100000 * 4);
 var totalDollars = totalCents / 100;
 console.log("I will raise $" + totalDollars + " for charity this year!");
